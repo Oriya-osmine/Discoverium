@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Prerequisites**
+<!-- **Prerequisites** -->
 <!-- Please ensure your request is not part of an existing issue. -->
 <!-- Please ensure you have checked the Obtainium Wiki. -->
 <!-- Please ensure your request is an actual bug and not intended behaviour (this is frequently the case for issues involving version strings and the HTML source. -->
